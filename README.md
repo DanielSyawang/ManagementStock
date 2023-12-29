@@ -1,0 +1,2 @@
+# ManagementStock
+c++ basic program 
